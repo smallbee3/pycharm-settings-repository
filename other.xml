@@ -1,0 +1,112 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/9.10.1/bin/node" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="INSPECTION_FILTER_HISTORY" value="dictionary" />
+    <property name="InstalledPluginsSearchHistory" value="sync&#10;gitignore" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="PyCharm.initialConfigurationShown" value="true" />
+    <property name="SettingsSearchHistory" value="inspection&#10;typo&#10;memory&#10;django&#10;file types" />
+    <property name="TrendingPluginsSearchHistory" value="nginx&#10;gitignore" />
+    <property name="evlsprt3.183" value="19" />
+    <property name="file.chooser.recent.files" value="/usr/local/var/pyenv/versions/tboard_lhy/bin/python&#10;/usr/local/var/pyenv/versions/tboard_test/bin/python&#10;/usr/local/var/pyenv/versions/python2.7/bin/python&#10;/usr/local/var/pyenv/versions/tboard/bin/python&#10;/usr/local/var/pyenv/versions/3.6.5/bin/python3" />
+    <property name="file.gist.reindex.count" value="86664" />
+    <property name="fileTypeChangedCounter" value="10" />
+    <property name="selected.color.option.type" value="TYPO" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+  <component name="PyCodeInsightSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="true" />
+    <option name="RENAME_SEARCH_NON_CODE_FOR_CLASS" value="true" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_VARIABLE" value="true" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/.local/share/virtualenvs/Python-SFkMcGON/bin/python" value="false" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/Python2.7-rBalTuUm/bin/python" value="false" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/todo-backend-01ZbwsoV/bin/python" value="false" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/trello-backend-yQcdTpin/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/betterbook/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/earth/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/fc-airbnb-5th/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/fc-django-document/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/fc-ec2-deploy/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/fc-finn/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/fc-melon-clone/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/finn-front/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/finn-project/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/python2.7/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/soundhub/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/subway/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/tboard/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/tboard_lhy/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/tboard_test/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/todo/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/trello/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/.local/share/virtualenvs/Python-SFkMcGON/bin/python" value="false" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/Python2.7-rBalTuUm/bin/python" value="false" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/todo-backend-01ZbwsoV/bin/python" value="false" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/trello-backend-yQcdTpin/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/betterbook/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/earth/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/fc-airbnb-5th/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/fc-django-document/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/fc-ec2-deploy/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/fc-finn/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/fc-melon-clone/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/finn-front/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/finn-project/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/python2.7/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/soundhub/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/subway/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/tboard/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/tboard_lhy/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/tboard_test/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/todo/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/trello/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="$USER_HOME$/.local/share/virtualenvs/Python-SFkMcGON/bin/python" value="false" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/Python2.7-rBalTuUm/bin/python" value="false" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/todo-backend-01ZbwsoV/bin/python" value="false" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/trello-backend-yQcdTpin/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/betterbook/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/earth/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/fc-airbnb-5th/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/fc-django-document/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/fc-ec2-deploy/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/fc-finn/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/fc-melon-clone/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/finn-front/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/finn-project/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/python2.7/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/soundhub/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/subway/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/tboard/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/tboard_lhy/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/tboard_test/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/todo/bin/python" value="false" />
+        <entry key="/usr/local/var/pyenv/versions/trello/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
+</application>

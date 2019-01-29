@@ -1,0 +1,18 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="supervisor*.conf" type="BuildoutCfg" />
+      <mapping pattern="Dockerfile.*" type="Dockerfile" />
+      <mapping ext="base" type="Dockerfile" />
+      <mapping ext="su" type="Dockerfile" />
+      <mapping ext="service" type="Ini" />
+      <mapping ext="doctest" type="PLAIN_TEXT" />
+      <mapping ext="config" type="YAML" />
+      <mapping ext="conf" type="nginx file type" />
+      <removed_mapping pattern="supervisor*.conf" approved="true" type="Ini" />
+      <removed_mapping pattern="supervisor*" approved="true" type="BuildoutCfg" />
+      <removed_mapping ext="conf" approved="true" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

@@ -62,6 +62,8 @@
     <keyboard-shortcut first-keystroke="shift ctrl f" />
     <keyboard-shortcut first-keystroke="shift meta f" />
   </action>
+  <action id="GotoTest" />
+  <action id="Images.ShowThumbnails" />
   <action id="IncrementWindowHeight" />
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
@@ -86,6 +88,7 @@
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="meta alt r" />
+    <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
   <action id="Rerun">
     <keyboard-shortcut first-keystroke="ctrl f5" />
@@ -98,6 +101,7 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="RunDashboard.ShowConfigurations" />
   <action id="SurroundWithEmmet">
     <keyboard-shortcut first-keystroke="ctrl alt e" />
   </action>

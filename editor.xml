@@ -5,6 +5,6 @@
         <entry key="Python" value="true" />
       </map>
     </option>
-    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+    <option name="USE_SOFT_WRAPS" value="" />
   </component>
 </application>

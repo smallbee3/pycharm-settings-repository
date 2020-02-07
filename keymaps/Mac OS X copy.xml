@@ -67,9 +67,13 @@
   <action id="IncrementWindowHeight" />
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="MoveTabDown">
+    <keyboard-shortcut first-keystroke="alt back_slash" />
+  </action>
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="shift alt v" />
     <keyboard-shortcut first-keystroke="meta alt back_slash" />
+    <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="ctrl tab" />
@@ -102,9 +106,6 @@
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="RunDashboard.ShowConfigurations" />
-  <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="meta back_slash" />
-  </action>
   <action id="SurroundWithEmmet">
     <keyboard-shortcut first-keystroke="ctrl alt e" />
   </action>

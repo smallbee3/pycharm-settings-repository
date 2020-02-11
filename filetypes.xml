@@ -6,15 +6,15 @@
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping ext="base" type="Dockerfile" />
       <mapping ext="su" type="Dockerfile" />
-      <mapping ext="service" type="Ini" />
-      <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="doctest" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping ext="config" type="YAML" />
-      <mapping ext="conf" type="nginx file type" />
       <removed_mapping pattern="supervisor*.conf" approved="true" type="Ini" />
       <removed_mapping pattern="supervisor*" approved="true" type="BuildoutCfg" />
       <removed_mapping ext="conf" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="nginx file type" />
+      <mapping ext="service" type="Ini" />
     </extensionMap>
   </component>
 </application>

@@ -14,6 +14,7 @@
   </action>
   <action id="ChangeSplitOrientation">
     <keyboard-shortcut first-keystroke="shift alt o" />
+    <keyboard-shortcut first-keystroke="meta alt o" />
   </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta f4" />
@@ -73,9 +74,12 @@
   <action id="IncrementWindowHeight" />
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="MoveTabDown">
+    <keyboard-shortcut first-keystroke="shift alt back_slash" />
+  </action>
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="shift alt v" />
-    <keyboard-shortcut first-keystroke="meta alt back_slash" />
+    <keyboard-shortcut first-keystroke="shift meta back_slash" />
   </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="ctrl tab" />
@@ -128,7 +132,7 @@
   </action>
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="shift alt u" />
-    <keyboard-shortcut first-keystroke="shift meta back_slash" />
+    <keyboard-shortcut first-keystroke="meta alt back_slash" />
   </action>
   <action id="UsageView.Exclude">
     <keyboard-shortcut first-keystroke="delete" />
@@ -136,6 +140,9 @@
   </action>
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="ViewInplaceComments">
+    <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="XDebugger.RemoveWatch">
     <keyboard-shortcut first-keystroke="delete" />

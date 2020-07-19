@@ -6,6 +6,8 @@
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping ext="base" type="Dockerfile" />
       <mapping ext="su" type="Dockerfile" />
+      <mapping ext="service" type="Ini" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="doctest" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
@@ -14,7 +16,6 @@
       <removed_mapping pattern="supervisor*" approved="true" type="BuildoutCfg" />
       <removed_mapping ext="conf" approved="true" type="PLAIN_TEXT" />
       <mapping ext="conf" type="nginx file type" />
-      <mapping ext="service" type="Ini" />
     </extensionMap>
   </component>
 </application>

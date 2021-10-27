@@ -1,0 +1,157 @@
+<keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="$Delete">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Remove">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+  </action>
+  <action id="ChangeSplitOrientation">
+    <keyboard-shortcut first-keystroke="shift alt o" />
+    <keyboard-shortcut first-keystroke="meta alt o" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta f4" />
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="Coverage">
+    <keyboard-shortcut first-keystroke="ctrl meta f10" />
+  </action>
+  <action id="DecrementWindowHeight" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="shift meta alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="shift meta alt down" />
+  </action>
+  <action id="EditorDeleteToLineStart">
+    <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="meta right" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="meta left" />
+    <keyboard-shortcut first-keystroke="ctrl a" />
+  </action>
+  <action id="EditorScrollDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="EditorScrollUp">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="meta e" />
+  </action>
+  <action id="EditorTextEnd">
+    <keyboard-shortcut first-keystroke="meta end" />
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="EditorTextEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta end" />
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
+  <action id="EditorTextStart">
+    <keyboard-shortcut first-keystroke="meta home" />
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="EditorTextStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta home" />
+    <keyboard-shortcut first-keystroke="shift meta up" />
+  </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+    <keyboard-shortcut first-keystroke="shift meta f" />
+  </action>
+  <action id="Forward">
+    <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="GotoTest" />
+  <action id="Images.ShowThumbnails" />
+  <action id="IncrementWindowHeight" />
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
+  <action id="MoveTabDown">
+    <keyboard-shortcut first-keystroke="shift alt back_slash" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="shift alt v" />
+    <keyboard-shortcut first-keystroke="shift meta back_slash" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+    <keyboard-shortcut first-keystroke="meta alt right" />
+  </action>
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
+  <action id="OverrideMethods" />
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
+    <keyboard-shortcut first-keystroke="meta alt left" />
+  </action>
+  <action id="RecentFiles" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="shift meta alt t" />
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="meta alt r" />
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="Rerun">
+    <keyboard-shortcut first-keystroke="ctrl f5" />
+    <keyboard-shortcut first-keystroke="shift f5" />
+  </action>
+  <action id="ResetColumnsWidth" />
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
+  <action id="RunDashboard.RemoveConfiguration">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="RunDashboard.ShowConfigurations" />
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="alt back_slash" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
+  <action id="SurroundWithEmmet">
+    <keyboard-shortcut first-keystroke="ctrl alt e" />
+  </action>
+  <action id="Switcher">
+    <keyboard-shortcut first-keystroke="alt tab" />
+    <keyboard-shortcut first-keystroke="shift alt tab" />
+  </action>
+  <action id="TabList">
+    <keyboard-shortcut first-keystroke="shift alt h" />
+  </action>
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="shift alt u" />
+    <keyboard-shortcut first-keystroke="meta alt back_slash" />
+  </action>
+  <action id="UsageView.Exclude">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="ViewInplaceComments">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="XDebugger.RemoveWatch">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+</keymap>

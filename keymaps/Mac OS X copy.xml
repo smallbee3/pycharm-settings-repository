@@ -3,6 +3,7 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="AddToFavoritesPopup" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="Arrangement.Rule.Remove">
@@ -103,6 +104,10 @@
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="shift meta alt t" />
     <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+    <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="meta alt r" />
